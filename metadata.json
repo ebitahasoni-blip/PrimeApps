@@ -1,0 +1,6 @@
+{
+  "name": "Prime Essay Feedback",
+  "description": "IELTS Writing Task 2 evaluation and feedback tool based on the 2023 official band descriptors with .docx export and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
